@@ -1,1 +1,5 @@
+print (‘hello world!;’)
+print (‘hello;’)
+print (‘hello my dear friend;’)
 Print ('world fuck you')
+
